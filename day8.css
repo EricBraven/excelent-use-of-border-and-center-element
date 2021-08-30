@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.container{
+	background:white;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+	background-image:url(images/bg5.jpg);
+	background-size:cover;
+}
+
+.subcontainer{
+	max-width:300px;
+	height:310px;
+	padding:;
+	border:4px solid white;
+    margin:9rem 3rem 7rem 3rem;
+	text-align:center;
+	align-items: center;
+	padding:7rem 4rem;
+	box-shadow:5px 5px 20px grey;
+	background-color: black;
+	color:white;
+}
+
+.box1{
+	background-image:url(images/bg7.jpg);
+}
+
+.box2{
+	background-image:url(images/bg6.jpg);
+}
+
+.box3{
+	background-image:url(images/bg5.jpg);
+}
