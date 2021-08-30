@@ -1,2 +1,2 @@
-# excelent-use-of-border-and-center-element
+# excellent-use-of-border-and-center-element
 Three equally spaced box 
